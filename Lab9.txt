@@ -64,8 +64,8 @@ Step 6
 Once confirmed, kindly clean up your AWS account.Delete your object and bucket.
 Edit the file in VSCode editor, save and push to your personal remote repo.
 
-
-
+What I noticed is Once you disable ACL, you will not be able to edit bucket policy
+You can only view images in bucket once you enable public access
 
 
 
