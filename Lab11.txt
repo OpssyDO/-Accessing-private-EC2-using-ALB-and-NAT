@@ -75,4 +75,3 @@ This Lab is pretty straight forward.. I have also done RDP connection on Azure
 
 
 
-
