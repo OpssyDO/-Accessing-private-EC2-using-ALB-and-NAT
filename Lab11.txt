@@ -66,7 +66,7 @@ Step 3
 Once confirmed, terminate your EC2 instance.
 Edit the file in VSCode editor, save and push to your personal remote repo.
 
-
+This Lab is pretty straight forward.. I have also done RDP connection on Azure
 
 
 
