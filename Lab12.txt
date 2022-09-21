@@ -128,6 +128,7 @@ Screenshot your webserver images for verification
 Once confirmed, terminate your EC2 instance.
 Edit the file in VSCode editor, save and push to your personal remote repo.
 
+Straight forward lab also..Enjoyed creating all the resources
 
 
 
